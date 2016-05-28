@@ -1,6 +1,23 @@
+My Notes
+========
+My notes on things.
+
+
+Notes Index
+-----------
+* [dump remote db](/notes/dump_remote_db.md)
+* [eb setting up a new instance](/notes/eb_setting_up_a_new_instance.md)
+* [place kittens](/notes/place_kittens.md)
+* [progressive web apps](/notes/progressive_web_apps.md)
+* [react prop types](/notes/react_prop_types.md)
+* [redux adding a reducer](/notes/redux_adding_a_reducer.md)
+* [service workers](/notes/service_workers.md)
+
+
+
 Note Taking in Terminal
-=======================
-Simple tool for taking notes from your terminal.
+-----------------------
+Using this tool for taking notes from your terminal.
 
 Usage
 -----
