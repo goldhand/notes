@@ -50,4 +50,4 @@ __Expanding:__
 [1]: https://developers.google.com/web/progressive-web-apps/ "Google's progressive-web-apps guide"
 [2]: https://github.com/GoogleChrome/sw-precache/ "sw-precache github"
 [3]: https://github.com/GoogleChrome/application-shell "Application shell demo github"
-[4]: /goldhand/notes/notes/service_workers.md "Web Service Workers Introduction"
+[4]: /notes/service_workers.md "Web Service Workers Introduction"
