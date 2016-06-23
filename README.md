@@ -7,11 +7,14 @@ Notes Index
 -----------
 * [dump remote db](/notes/dump_remote_db.md)
 * [eb setting up a new instance](/notes/eb_setting_up_a_new_instance.md)
-* [place kittens](/notes/place_kittens.md)
+* [es6 maps and weakmaps](/notes/es6_maps_and_weakmaps.md)
+* [js data types](/notes/js_data_types.md)
 * [progressive web apps](/notes/progressive_web_apps.md)
 * [react prop types](/notes/react_prop_types.md)
 * [redux adding a reducer](/notes/redux_adding_a_reducer.md)
+* [redux middleware](/notes/redux_middleware.md)
 * [service workers](/notes/service_workers.md)
+* [configuring AVA for testing with a react / webpack project](/notes/testing_react_webpack_with_ava_and_enzyme.md)
 
 
 
