@@ -15,6 +15,7 @@ Notes Index
 * [redux middleware](/notes/redux_middleware.md)
 * [service workers](/notes/service_workers.md)
 * [configuring AVA for testing with a react / webpack project](/notes/testing_react_webpack_with_ava_and_enzyme.md)
+* [javascript error handling](/notes/javascript_error_handling.md)
 
 
 
